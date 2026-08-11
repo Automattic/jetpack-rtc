@@ -6,7 +6,7 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-assets": "^4.4.10",
-		"automattic/jetpack-connection": "^8.9.0"
+		"automattic/jetpack-connection": "^8.10.0-alpha"
 	},
 	"require-dev": {
 		"automattic/phpunit-select-config": "^1.0.9",
