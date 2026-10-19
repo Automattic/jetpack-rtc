@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-assets": "^5.0.13-alpha",
-		"automattic/jetpack-connection": "^9.12.1-alpha"
+		"automattic/jetpack-assets": "^5.0.13",
+		"automattic/jetpack-connection": "^9.12.1"
 	},
 	"require-dev": {
 		"automattic/phpunit-select-config": "^1.0.11",
